@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-class CellCMS extends Component {
+class CellCM extends Component {
   render() {
     return (
       <div
